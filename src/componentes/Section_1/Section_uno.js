@@ -11,7 +11,7 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Compro oro en<span className={styles.linea}>Sevilla</span>
+          Compro oro <span className={styles.linea}>Sevilla</span>
         </h1>
         <p>
           En Quickgold puedes vender oro en Sevilla en tan solo unos minutos y
